@@ -1,15 +1,15 @@
 {
-  "displayName": "iSmartGate Light",
+  "displayName": "iSmartGateDoor",
   "name": "homebridge-ismartgate-light",
-  "version": "1.0.7",
+  "version": "0.7",
   "description": "Exposes the iSmartGate hub light to Homebridge.",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PeterHsieh/homebridge-ismartgate-light.git"
+    "url": "git://github.com/mertaroid/homebridge-ismartgate-mk.git"
   },
   "bugs": {
-    "url": "https://github.com/PeterHsieh/homebridge-ismartgate-light/issues"
+    "url": "https://github.com/mertaroid/homebridge-ismartgate-mk.git/issues"
   },
   "engines": {
     "node": ">=10.17.0",
